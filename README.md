@@ -11,7 +11,7 @@ Este é um projeto de Decodificador de Mensagens da Alura, criado utilizando HTM
 
 ## Capturas de Tela
 
-https://github.com/user-attachments/assets/2ae55126-e978-44eb-9481-8d97eea888ae
+![image](https://github.com/user-attachments/assets/965bbd14-76a7-4c09-93ad-68ab4e9c5589)
 *Imagem do projeto*
 
 

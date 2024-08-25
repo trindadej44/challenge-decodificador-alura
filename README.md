@@ -4,7 +4,7 @@ Este é um projeto de Decodificador de Mensagens da Alura, criado utilizando HTM
 
 ## Funcionalidades
 
-- **Criptografia base64** Quando o botão de criptografar é clicado, o usuário consegue obter o texto de forma prática.
+- **Criptografia Base64:** Quando o botão de criptografar é clicado, o usuário consegue obter o texto de forma prática.
 - **Descriptografia:** Com o clique de um botão, o texto criptografado pode ser convertido de volta ao seu formato original.
 - **Tema Dark:** Design moderno e elegante com um tema escuro, ideal para ambientes com pouca luz.
 - **Interface Responsiva:** O layout foi desenvolvido para se ajustar bem a diferentes tamanhos de tela, incluindo dispositivos móveis.
